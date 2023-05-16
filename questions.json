@@ -1,0 +1,58 @@
+[
+    {
+        "question": "What's my favourite color?",
+        "choice1": "Black",
+        "choice2": "Green",
+        "choice3": "Blue",
+        "choice4": "Red",
+        "answer": 1
+    },
+    {
+        "question": "Where is my hometown?",
+        "choice1": "Bogura",
+        "choice2": "Cumilla",
+        "choice3": "B. Baria",
+        "choice4": "Sylhet",
+        "answer": 2
+    },
+    {
+        "question": "What's my height?",
+        "choice1": "5 feet 1 inches",
+        "choice2": "5 feet 2 inches",
+        "choice3": "5 feet 3 inches",
+        "choice4": "5 feet 4 inches",
+        "answer": 2
+    },
+    {
+        "question": "What's my weight?",
+        "choice1": "52KG",
+        "choice2": "55KG",
+        "choice3": "57kg",
+        "choice4": "60KG",
+        "answer": 2
+    },
+    {
+        "question": "Which one is me?",
+        "choice1": "Tall",
+        "choice2": "Beautiful",
+        "choice3": "Sexy",
+        "choice4": "Bolod",
+        "answer": 4
+    },
+    {
+        "question": "What do I want the most in my life?",
+        "choice1": "Tekaaa",
+        "choice2": "Dignity",
+        "choice3": "You",
+        "choice4": "Babu",
+        "answer": 3
+    },
+    {
+        "question": "What if I would find you with another girl?",
+        "choice1": "Tomar theng vainga hate dhoray dibo",
+        "choice2": "Oi mey re thappor dibo",
+        "choice3": "Shaijaguija ghurbo tomar shamne",
+        "choice4": "Baccha nia nibo -__-",
+        "answer": 4
+    }
+]
